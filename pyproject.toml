@@ -4,9 +4,11 @@ version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.13"
 dependencies = [
+    "agno>=2.0.3",
     "helper>=2.5.0",
     "llama-index>=0.13.6",
     "notebook>=7.4.5",
+    "phi>=0.6.7",
 ]
 
 [tool.uv.workspace]
