@@ -1,0 +1,8 @@
+.idea/
+*.iml
+__pycache__/
+.DS_Store/
+.venv/
+.env
+**/tmp/
+.ipynb_checkpoints/
