@@ -6,3 +6,5 @@ __pycache__/
 .env
 **/tmp/
 .ipynb_checkpoints/
+**/*.virtual_documents/
+0.5.0
